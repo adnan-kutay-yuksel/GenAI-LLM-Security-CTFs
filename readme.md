@@ -8,11 +8,10 @@ This repository is a curated list of GenAI/LLM Security and Pentesting CTF chall
 
 | **NO** | **COMPANY**    | **CTF NAME**        | **CTF LINK**                               | **WRITEUP LINK**                                                                                                 |
 |--------|----------------|---------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 1      | Lakera         | Gandalf Lakera      | https://gandalf.lakera.ai/baseline         | https://medium.com/@akyuksel/defeating-ai-a-detailed-security-testing-adventure-with-gandalf-ai-579ff22abdc7     |
+| 1      | Lakera         | Gandalf Lakera      | https://gandalf.lakera.ai/baseline         | https://akyuksel.medium.com/defeating-ai-a-detailed-security-testing-adventure-with-gandalf-ai-579ff22abdc7      |
 | 2      | Lakera         | Gandalf Adventures  | https://gandalf.lakera.ai/adventure-1      | https://akyuksel.medium.com/a-detailed-security-testing-adventure-with-gandalf-lakera-ai-adventures-fae87d55126f |
 | 3      | Lakera         | Gandalf Hack Sydney | https://gandalf.lakera.ai/hack-sydney-2023 | https://akyuksel.medium.com/security-testing-adventure-with-lakera-gandalf-ai-hack-sydney-38c25bef7787           |
-| 4      | Immersive Labs | Prompting AI        | https://prompting.ai.immersivelabs.com/    | PENDING                                                                                                          |
-
+| 4      | Immersive Labs | Prompting AI        | https://prompting.ai.immersivelabs.com/    | https://akyuksel.medium.com/security-testing-adventure-with-immersivelabs-ai-2ad479fb63aa                        |
 
 
 ---
